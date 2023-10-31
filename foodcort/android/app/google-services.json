@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485962101208",
+    "project_id": "food-cort-500c9",
+    "storage_bucket": "food-cort-500c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485962101208:android:c1387ea253255f6a6f82ad",
+        "android_client_info": {
+          "package_name": "com.example.foodcort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485962101208-9kvb4079cfkhjbnvtsughvlfdnv3j7tn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOSlG7YrCsh_fUHFHGIA5nAbbMQMIHPKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485962101208-9kvb4079cfkhjbnvtsughvlfdnv3j7tn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
